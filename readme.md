@@ -19,14 +19,8 @@ My name is peterroe.
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white)
 ![WebVitepack](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Google Chrome-4285F4?style=flat-square&logo=Google Chrome&logoColor=white)
 
 ### My GitHub Stats
 
 ![Licardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterroe&show_icons=true)
-
-### My GitHub Languages
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterroe&layout=compact)
-
-⭐️ From [peterroe](https://github.com/peterroe)
