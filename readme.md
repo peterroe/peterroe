@@ -15,10 +15,7 @@ My name is peterroe.
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white)
-![WebVitepack](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
+![Stylus](https://img.shields.io/badge/Stylus-61DAFB?style=flat-square&logo=Stylus&logoColor=white)
 
 ### My GitHub Stats
 
