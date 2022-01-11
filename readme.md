@@ -2,10 +2,11 @@
 
 My name is peterroe.
 
-* 💻 A front end Engineer
-* 🥉 Working [Unge-UI](https://github.com/peterroe/Unge-UI) based on Vue3 
-* 🦄 Enjoy JavaScript,VueJs,ReactJs and NodeJs
-* 🍉 Hobby maybe blog and coding with js
+* 💻 A front end Engineer.
+* 🥉 Working [Unge-UI](https://github.com/peterroe/Unge-UI) based on Vue3.
+* 🦄 Enjoy JavaScript,VueJs,ReactJs and NodeJs.
+* 🍉 Hobby maybe blog and coding with js.
+* 💨 Visit [peterroe.icu](https://peterroe.icu) for more information.
 
 ### Languages and Tools:
 
