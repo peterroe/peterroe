@@ -20,5 +20,7 @@ My name is peterroe.
 
 ### My GitHub Stats
 
-![Licardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterroe&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterroe&layout=compact)
+<p>
+	<a href="https://github.com/peterroe"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=peterroe&count_private=true&show_icons=true&hide_title=true" alt="GitHub Stats" align="left"></a>
+	<a href="https://github.com/peterroe"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterroe&layout=compact&hide_title=true" alt="Top Langs" align="right"></a>
+</p>
