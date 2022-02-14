@@ -2,7 +2,7 @@
 
 My name is peterroe.
 
-* 💻 A front end Engineer.
+* 💻 A front end developer.
 * 🥉 Working [Unge-UI](https://github.com/peterroe/Unge-UI) based on Vue3.
 * 🦄 Enjoy JavaScript,VueJs,ReactJs and NodeJs.
 * 🍉 Hobby maybe blog and coding with js.
