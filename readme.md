@@ -13,9 +13,9 @@
 My name is peterroe.
 
 * 💻 A front end developer.
-* 🥉 Working [Unge-UI](https://github.com/peterroe/Unge-UI) based on Vue3.
+* 🥉 Working [Rss-Reader](https://github.com/peterroe/Rss-Reader) based on tauri-app.
 * 🦄 Enjoy JavaScript,VueJs and NodeJs.
-* 🍉 Hobby maybe blog and coding with js.
+* 🍉 Hobby maybe blogging and write open source [tools](https://www.peterroe.icu/tools).
 * 💨 Visit [peterroe.icu](https://peterroe.icu) for more information.
 
 ### Languages and Tools:
