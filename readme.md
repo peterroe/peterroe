@@ -37,3 +37,5 @@ My name is peterroe.
 	<a href="https://github.com/peterroe"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=peterroe&count_private=true&show_icons=true&hide_title=true" alt="GitHub Stats" align="left"></a>
 	<a href="https://github.com/peterroe"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterroe&layout=compact&hide_title=true" alt="Top Langs" align="right"></a>
 </p>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=peterroe&bg_color=ffffff&color=000000&line=30a141&point=03d3d&area=false&hide_border=true" align="center" />
