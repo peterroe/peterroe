@@ -39,3 +39,7 @@ My name is peterroe.
 </p>
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=peterroe&bg_color=ffffff&color=000000&line=30a141&point=03d3d&area=false&hide_border=true" align="center" />
+	
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=peterroe&&style=flat-square" align="center" />
+</div>  
