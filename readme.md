@@ -13,7 +13,7 @@
 My name is peterroe.
 
 * 💻 A front end developer.
-* 🥉 Working [Rss-Reader](https://github.com/peterroe/Rss-Reader) based on tauri-app.
+* 🥉 Working Webassembly based on Rust.
 * 🦄 Enjoy JavaScript,VueJs and NodeJs.
 * 🍉 Hobby maybe blogging and write open source [tools](https://www.peterroe.icu/tools).
 * 💨 Visit [peterroe.icu](https://peterroe.icu) for more information.
