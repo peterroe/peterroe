@@ -3,7 +3,8 @@
     <a href="https://peterroe.icu">me</a> .
     <a href="https://www.peterroe.icu/posts">blog</a> .
     <a href="https://www.peterroe.icu/projects">projects</a> .
-    <a href="https://www.peterroe.icu/tools">tools</a>
+    <a href="https://www.peterroe.icu/tools">tools</a> .
+    <a href="https://github.com/peterroe/awesome-profile-widget">widget</a>
   </samp>
 </p>
 
