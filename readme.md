@@ -36,6 +36,9 @@ My name is peterroe.
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=peterroe&&style=flat-square" align="center" />
 </p>  
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peterroe&theme=vue"/>
+  </p>  
 <p>
   <a href="https://github.com/peterroe"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=peterroe&count_private=true&show_icons=true&hide_title=true" alt="GitHub Stats" align="left"></a>
   <a href="https://github.com/peterroe"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterroe&layout=compact&hide_title=true" alt="Top Langs" align="right"></a>
